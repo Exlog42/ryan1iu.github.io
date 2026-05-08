@@ -1,6 +1,6 @@
 ---
 title: i3wm下使用libinput-gestures实现触控板手势
-date:
+date: 2026-04-01
 draft: false
 tags: 水文
 categories: 折腾
