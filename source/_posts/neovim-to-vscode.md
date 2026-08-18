@@ -5,7 +5,7 @@ tags:
 - Neovim
 - VScode
 - IDE
-catgories:
+categories:
 - 工作流
 ---
 
